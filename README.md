@@ -32,7 +32,7 @@ fun_fact: "I debug with printf and I'm proud of it"
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mamisedra&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-trophies.vercel.app/?username=Mamisedra&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
@@ -67,12 +67,12 @@ fun_fact: "I debug with printf and I'm proud of it"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mamisedra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mamisedra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Mamisedra&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamisedra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mamisedra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 </p>
 
 ---
@@ -101,18 +101,18 @@ fun_fact: "I debug with printf and I'm proud of it"
 
 <p align="center">
   <a href="https://github.com/Mamisedra/transcendence">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamisedra&repo=transcendence&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mamisedra&repo=transcendence&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/Mamisedra/Minishell_mranaivo">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamisedra&repo=Minishell_mranaivo&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mamisedra&repo=Minishell_mranaivo&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Mamisedra/push_swap">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamisedra&repo=push_swap&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mamisedra&repo=push_swap&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/Mamisedra/so_long">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mamisedra&repo=so_long&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Mamisedra&repo=so_long&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
