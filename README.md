@@ -51,8 +51,8 @@ Most of my AI and mobile work is private client work. Some open-source projects:
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mamisedra&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&langs_count=6" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mamisedra&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="150" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mamisedra/Mamisedra/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Mamisedra/Mamisedra/output/github-snake.svg" />
 </picture>
 
 <br /><br />
